@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Generator"
-permalink: /generator
+permalink: /generator.html
 ---
 
 <!DOCTYPE html>
