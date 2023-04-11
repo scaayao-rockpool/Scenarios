@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Generator"
-permalink: /Scenarios/generator
+permalink: /generator
 ---
 
 <!DOCTYPE html>
